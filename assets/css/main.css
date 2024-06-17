@@ -66,13 +66,14 @@ h6 {
 /*--------------------------------------------------------------
 # Global Header
 --------------------------------------------------------------*/
+
 .header {
   --background-color: rgba(0, 0, 0, 0);
   --heading-color: #ffffff;
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 10px ;
-  transition: all 0.5s;
+  padding: 10px;
+    transition: all 0.5s;
   z-index: 997;
 }
 
