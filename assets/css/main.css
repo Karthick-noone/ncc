@@ -964,12 +964,6 @@ section,
 }
 
 .speakers .member {
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-}
-
-.speakers .member {
   width: 100%;
   overflow: hidden;
   position: relative;
